@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    color: chartreuse;
+    font-size: 20px;
+}
+.two{
+    color: crimson;
+    font-size: 30px;
+}
+.three{
+    color: rgb(252, 252, 252);
+    font-size: 40px;
+}
